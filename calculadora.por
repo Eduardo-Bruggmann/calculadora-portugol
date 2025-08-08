@@ -3,7 +3,7 @@ programa {
   inclua biblioteca Util --> u
 
   funcao inteiro somar(inteiro a, inteiro b) {
-    retorne 1
+    retorne a + b
   }
 
   funcao inteiro subtrair(inteiro a, inteiro b) {
