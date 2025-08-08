@@ -11,7 +11,7 @@ programa {
   }
 
   funcao inteiro multiplicar(inteiro a, inteiro b) {
-    retorne 1
+    retorne a * b
   }
 
   funcao inteiro dividir(inteiro a, inteiro b) {
