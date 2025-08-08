@@ -47,7 +47,7 @@ programa {
   funcao inicio() {
     cadeia entrada = ""
     enquanto(verdadeiro) {
-      escreva("====== CALCULADORA ======\n")
+      escreva("======= CALCULADORA =======\n")
 
       escreva(calculadora())
 
@@ -58,7 +58,7 @@ programa {
         pare
       }
 
-      u.aguarde(850)
+      u.aguarde(800)
       limpa()
     }
   }
